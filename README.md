@@ -1,16 +1,32 @@
 ## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm + Malik+Faisal+Hussain!;" />
+</h1>
 
-<!--
-**malikfaisal695/malikfaisal695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate Data Analyst</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+## Key Skills 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages: HTML5, SQL.
+
+Databases: MySQL.
+
+IDE Tools: MySQL Workbench and VSCode.
+
+Version Control: Git and GitHub
+
+<div align="center"> 
+  <a href="mailto:rxa695@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" rel="noopener noreferrer"/>
+  </a>
+  <a href="https://www.linkedin.com/in/malik-faisal-hussain-1406a1148" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"/>
+  </a>
+ 
+</div>
+
+
+
+_Springer Lecture Notes in Computer Science (Scopus Indexed)_.
